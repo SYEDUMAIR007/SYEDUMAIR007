@@ -5,7 +5,8 @@
 - 📫 How to reach me: syedmdumair123@gmail.com
 
 About the company i want to start:
-I want to make a social media platform for programmers, developers. 
+I want to make a social media platform for programmers, developers.
+INTERESTED PEOPLE CAN PARTNER
 <!---
 SYEDUMAIR007/SYEDUMAIR007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
